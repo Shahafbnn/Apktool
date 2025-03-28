@@ -19,7 +19,7 @@ If you discover a security vulnerability within Apktool, please send an e-mail t
 #### Links
 - [Downloads](https://bitbucket.org/iBotPeaches/apktool/downloads)
 - [Downloads Mirror](https://connortumbleson.com/apktool/)
-- [How to Build](https://ibotpeaches.github.io/Apktool/build/)
+- [How to Build](https://apktool.org/docs/build)
 - [Documentation](https://ibotpeaches.github.io/Apktool/documentation/)
 - [Bug Reports](https://github.com/iBotPeaches/Apktool/issues)
 - [Changelog/Information](https://ibotpeaches.github.io/Apktool/changes/)
